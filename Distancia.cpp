@@ -12,6 +12,8 @@
 
    float x1, x2, y1, y2, distancia;
    
+   // hector pizano
+   
    cout <<"\n\nEste programa calcula la distancia entre dos puntos en el plano cartesiano. "<<endl;
    cout <<"\n\nIntroduzca las coordenadas del primer punto: "<<endl;
    cin >> x1 >>  x2;
